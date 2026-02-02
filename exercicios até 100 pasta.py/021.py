@@ -1,1 +1,0 @@
-print ('pulei o exercicio pq nn achei a resolução, e o módulo utilizado pra tocar mp3 que o guanabara usou nn funciona mais')
