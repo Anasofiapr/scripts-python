@@ -1,0 +1,1 @@
+print ('usa conceitos matematicos q nn aprendi ainda')

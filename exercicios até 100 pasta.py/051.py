@@ -1,0 +1,1 @@
+print ('progressão aritmética?? to fora')

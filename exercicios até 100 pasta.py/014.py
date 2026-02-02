@@ -1,0 +1,1 @@
+print ('ta na lista de exeer tem  voltar e olhar')
