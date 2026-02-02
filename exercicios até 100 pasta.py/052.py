@@ -1,1 +1,0 @@
-print ('tem que voltar e fazer não etendi bosta nenhums')
