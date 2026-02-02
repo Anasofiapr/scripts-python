@@ -1,1 +1,0 @@
-print ('tem que dar um olhada na resposta dps, pq eu nn entendi nada do que era hexadecimal, binario e octal')
